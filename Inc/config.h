@@ -62,7 +62,7 @@
 #define SPDSHFT 0
 
 //------------------------------ Ride mode setting
-#define NUMBER_OF_PAS_MAGNETS 12
+#define NUMBER_OF_PAS_MAGNETS 6
 #define PAS_TIMEOUT 8000
 #define RAMP_END 1600
 //#define DIRDET
@@ -80,7 +80,7 @@
 //-------------------------------Speed settings
 #define WHEEL_CIRCUMFERENCE 2200
 #define GEAR_RATIO 11 //dummy for testing
-#define SPEEDLIMIT 27
+#define SPEEDLIMIT 26
 #define PULSES_PER_REVOLUTION 1
 #define REVERSE -1
 #define SPEEDFILTER 1
